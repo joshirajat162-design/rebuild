@@ -3,7 +3,7 @@
 // -------------------------
 // HARD-CODED CONFIG
 // -------------------------
-$GEMINI_API_KEY = "AIzaSyB7u4nRhXZ0_DZZf45hsamrBzF5mSy1KfQ"; // <--- PUT YOUR KEY HERE
+$GEMINI_API_KEY = ""; // <--- PUT YOUR KEY HERE
 
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Headers: Content-Type");
